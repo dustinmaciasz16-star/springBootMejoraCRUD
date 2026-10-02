@@ -1,0 +1,15 @@
+targe/
+
+.settings/
+.classpath
+.poject
+.factorypath
+
+.idea/
+*.iml
+out/
+
+.vscode/
+
+.DS_Store
+thumbs.db
